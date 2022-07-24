@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+#Tim {
+    height: 500px;
+    border-radius: 200px;
+}
+
+#name {
+    background: linear-gradient(#f2ff38 0%, #47ede5 100%);
+
+}
+
+#bio {
+    margin: 100px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.list{
+    float: left;
+    color: white;
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 22px;
+}
+.list: hover{
+    color: blue;
+}
+#name{
+    padding: 60px;
+}
+#t{
+    font-family:"Lucida Console", "Courier New", monospace;
+}
+.contact h3{
+    display: inline;
+}
+.my_nav_bar{
+    position: sticky; top: 0;z-index: 99999;
+}
